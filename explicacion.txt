@@ -8,3 +8,5 @@ git pull: Sincronizar el repositorio local con el repositorio remoto.
 git branch: Visualizar las ramas, y cuando esta acompa¤ado de una palabra se crea la rama.
 
 git switch: Movernos entre ramas.
+
+git merge: Tomar las líneas independientes e integrarlas en una sola rama.
