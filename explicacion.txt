@@ -1,0 +1,10 @@
+
+git clone: Clona el contenido de cualquier repositorio a nuestra computadora.
+
+git push: Sincronizar el repositorio remoto con el repositorio local.
+
+git pull: Sincronizar el repositorio local con el repositorio remoto.
+
+git branch: Visualizar las ramas, y cuando esta acompa¤ado de una palabra se crea la rama.
+
+git switch: Movernos entre ramas.
