@@ -1,0 +1,17 @@
+Funcionamiento de los comandos
+
+
+git clone : Clonar el repositorio en la computadora (se pone el link del repositorio despues del comando).
+
+
+push : Enviar los cambios locales a la rama remota especificada.
+
+
+pull : Descargar cambios desde un repositorio.
+
+
+branch : Crear una nueva rama o ver las que están (en la primera se debe de poner el nombre que se desee para la rama.).
+
+
+switch : (checkout) Cambiar de ramas.
+ 
